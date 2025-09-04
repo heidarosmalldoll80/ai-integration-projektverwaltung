@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
-  res.send('Willkommen zur AI-Integration Projektverwaltung!');
+  res.send('Willkommen zum AI-Integrationsprojekt!');
 });
 
 app.listen(PORT, () => {
