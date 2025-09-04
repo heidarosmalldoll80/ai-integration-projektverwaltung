@@ -11,7 +11,7 @@ Vielen Dank, dass Sie Interesse an unserem Projekt haben! Wir freuen uns über j
 
 ## Richtlinien
 - Stellen Sie sicher, dass Ihr Code gut dokumentiert ist.
-- Schreiben Sie Tests für neue Funktionen.
+- Schreiben Sie Tests für neue Funktionen, um die Qualität zu gewährleisten.
 - Halten Sie den Code sauber und lesbar.
 - Achten Sie auf konsistente Namensgebung und Formatierung.
 
