@@ -13,5 +13,6 @@ Vielen Dank, dass Sie Interesse an unserem Projekt haben! Wir freuen uns über j
 - Stellen Sie sicher, dass Ihr Code gut dokumentiert ist.
 - Schreiben Sie Tests für neue Funktionen.
 - Halten Sie den Code sauber und lesbar.
+- Achten Sie auf konsistente Namensgebung und Formatierung.
 
 Vielen Dank für Ihre Beiträge!
