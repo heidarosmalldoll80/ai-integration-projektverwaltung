@@ -1,7 +1,7 @@
 {
   "name": "ai-integration-projektverwaltung",
   "version": "1.0.0",
-  "description": "Ein Tool zur effizienten Verwaltung von Projekten mit KI-Integration",
+  "description": "Ein KI-unterstütztes Tool zur effizienten Verwaltung und Planung von Projekten",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
