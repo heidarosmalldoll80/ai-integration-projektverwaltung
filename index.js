@@ -8,9 +8,9 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
-  res.send('Willkommen zum KI-Integrationsprojekt!');
+  res.send('Welcome to the AI Integration Project!');
 });
 
 app.listen(PORT, () => {
-  console.log(`Server läuft auf http://localhost:${PORT}`);
+  console.log(`Server running at http://localhost:${PORT}`);
 });
