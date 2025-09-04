@@ -14,6 +14,7 @@ Vielen Dank, dass Sie Interesse an unserem Projekt haben! Wir freuen uns über j
 - Schreiben Sie Tests für neue Funktionen, um die Qualität zu gewährleisten.
 - Halten Sie den Code sauber und lesbar.
 - Achten Sie auf konsistente Namensgebung und Formatierung.
+- Verwenden Sie sinnvolle Commit-Nachrichten, um Änderungen nachzuvollziehen.
 
 Vielen Dank für Ihre Beiträge!
 
