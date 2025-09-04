@@ -16,3 +16,6 @@ Vielen Dank, dass Sie Interesse an unserem Projekt haben! Wir freuen uns über j
 - Achten Sie auf konsistente Namensgebung und Formatierung.
 
 Vielen Dank für Ihre Beiträge!
+
+## Weitere Informationen
+- Für Fragen oder weitere Informationen wenden Sie sich bitte an das Team oder besuchen Sie unsere Website.
