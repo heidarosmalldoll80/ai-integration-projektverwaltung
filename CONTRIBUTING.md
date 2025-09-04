@@ -10,7 +10,7 @@ Vielen Dank, dass Sie Interesse an unserem Projekt haben! Wir freuen uns über j
 5. Öffnen Sie einen Pull-Request.
 
 ## Richtlinien
-- Stellen Sie sicher, dass Ihr Code gut dokumentiert ist.
+- Stellen Sie sicher, dass Ihr Code gut dokumentiert ist und Kommentare enthält.
 - Schreiben Sie Tests für neue Funktionen, um die Qualität zu gewährleisten.
 - Halten Sie den Code sauber und lesbar.
 - Achten Sie auf konsistente Namensgebung und Formatierung.
